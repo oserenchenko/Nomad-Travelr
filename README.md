@@ -9,10 +9,10 @@ ______________
 [Nomad-Travelr](https://oserenchenko.github.io/Nomad-Travelr-Local/)
 Checkout the full version of the app with these credentials:
 ```
-email: test@test.com
+email: testing@test.com
 ```
 ```
-password: ChewzyTest1!
+password: testing
 ```
 
 ![homepage]()
@@ -24,52 +24,18 @@ ______________
 ## Getting Started
 to install locally run this command in your terminal
 ```
-git clone https://github.com/oserenchenko/Chewzy.git
+git clone https://github.com/oserenchenko/Nomad-Travelr-Local.git
 ```
-once inside the Chewzy folder run 
-```
-npm install
-```
+once inside the Nomad-Travelr-Local folder, open the index.html file in your preferred web browser.
 
-Now we need to make a .env file inside of the main folder and fill in these keys.
-These keys can be obtained at [auth0](https://auth0.com) when you register an application.
-
-``` javascript
-NODE_ENV="development"
-```
-``` javascript
-AUTH0_CLIENT_SECRET=YOUR_KEY
-```
-``` javascript
-AUTH0_ID=YOUR_ID
-```
-``` javascript
-AUTH0_DOMAIN=YOUR_DOMAIN
-```
-
-
-You will also need to set up a MySql database called chewzy
-
-The last step is to make sure your express sever is running and and type this command in your termial
-```
-node server.js
-```
-
-### Prerequisites
-
-* [Nodejs](https://nodejs.org/)
-* [MySql](https://www.mysql.com)
-
-
-______________
-______________
-______________
 ## Built With
 
-* [Expressjs](https://expressjs.com/) - nodejs server side framework
-* [MySql](https://www.mysql.com) -open-source relational database management system.
-* [Auth0](https://auth0.com) - universal authentication & authorization platform for web, mobile, and legacy applications.
-* [Sequelize](http://docs.sequelizejs.com) - romise-based ORM for Node.js v4 and up.
+* HTML - website structure
+* [CSS](https://css-tricks.com/) - styling
+* [Bootstrap](https://getbootstrap.com/) - styling framework
+* [Materialize](https://materializecss.com/) - styling framework
+* [Firebase](https://firebase.google.com/) - user authentication and data storage
+* [Foursquare API](https://developer.foursquare.com/) - venue/things to do search for cities
 
 ______________
 ______________
@@ -77,7 +43,9 @@ ______________
 ## Authors
 
 * [Olga Serenchenko](https://github.com/oserenchenko)
-* [Inna Leikina](https://github.com/innaleikina)
+* [Benjamin Wulf](https://github.com/benjaminwulf)
+* [Ericemp](https://github.com/ezemp)
+* Patricia Rippe
 
 ______________
 ______________
