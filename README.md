@@ -34,6 +34,8 @@ once inside the Nomad-Travelr-Local folder, open the index.html file in your pre
 * [CSS](https://css-tricks.com/) - styling
 * [Bootstrap](https://getbootstrap.com/) - styling framework
 * [Materialize](https://materializecss.com/) - styling framework
+* [Javascript](https://www.javascript.com/) - website logic
+* [jQuery](https://jquery.com/) - manipulating the DOM
 * [Firebase](https://firebase.google.com/) - user authentication and data storage
 * [Foursquare API](https://developer.foursquare.com/) - venue/things to do search for cities
 
