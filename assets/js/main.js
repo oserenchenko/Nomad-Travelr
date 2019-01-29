@@ -1,5 +1,5 @@
 var config = {
-  apiKey: "AIzaSyDdVJ19ev1TIYXPrMF_5w1WLRPownVXj5g",
+  apiKey: "AIzaSyCPOIW_c7HDgujKMO6aFpyYFko9YubNcLc",
   authDomain: "nomad-travelr.firebaseapp.com",
   databaseURL: "https://nomad-travelr.firebaseio.com",
   projectId: "nomad-travelr",
